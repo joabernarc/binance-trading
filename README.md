@@ -1,24 +1,23 @@
 # binance-trading
-Binance trading bots and trading strategies
+Binance trading bots and backtest trading strategies<br />
 
 
-Requirements:
+## Requirements:
 
 
-Python >= 3.8
-Python-binance >= 1.0.19
-Pandas >= 2.1
-Pandas_ta
-Backtesting.py
+Python >= 3.8<br />
+Python-binance >= 1.0.19<br />
+Pandas >= 2.1<br />
+Pandas_ta<br />
+Backtesting.py<br />
 Talib
 
 
-Installation: pip install line-bot-sdk pip install pandas
+## Installation:
 
-
-pip install -r requirements.txt
-(cointaining)
-backtesting
-talib
-pandas_ta
-python-binance
+pip install -r requirements.txt<br />
+(cointaining)<br />
+backtesting<br />
+talib<br />
+pandas_ta<br />
+python-binance<br />
