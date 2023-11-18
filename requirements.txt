@@ -1,0 +1,5 @@
+backtesting
+talib # use upload\TA_Lib-0.4.24-cp310-cp310-win_amd64.whl if it fails to install
+pandas
+pandas_ta
+python-binance
